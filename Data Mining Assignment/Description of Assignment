@@ -1,3 +1,0 @@
-This assignment tasked me with exploring a housing data set by creating visualizations and finding correlated variables and handling them accordingly.
-I then created a model using forward, backward, and stepwise regression to find the best fit. 
-However, a simple model was deemed the best since the selections generated models with high RMSE.
