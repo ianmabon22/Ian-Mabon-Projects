@@ -14,3 +14,5 @@ Analytics for Sports Assignment
 - Created visualizations indicating team strength based on the league average and against the Washington Mystics. 
 - Predictions were made for that season's playoffs.
 
+Writing Samples
+- Blog posts and executive summary created during my Marketing, Research, and Proposal Internship.
